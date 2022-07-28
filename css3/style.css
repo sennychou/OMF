@@ -58,7 +58,7 @@
     height: 50px;
     border:none;
     padding: 15px;
-    width: 200px;
+    width: 250px;
 }
 
 .rechercher:hover
@@ -71,6 +71,8 @@
 .description
 {
     text-align: -webkit-center;
+    text-align: -moz-center;
+    padding-bottom: 50px;
 }
 
 .p_description
@@ -212,6 +214,7 @@ h1
 {
     background-color:#f6f6f6;
     margin-top:50px;
+    padding-bottom: 20px;
 }
 
 .liste_restaurants h1
